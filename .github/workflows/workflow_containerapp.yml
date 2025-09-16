@@ -59,3 +59,5 @@ jobs:
         containerAppEnvironment: tsacae45
         containerAppName: tsaca45
         targetPort: 8080
+        environmentVariables: |
+          API_URL=https://taaca-ai.nicepebble-911213d5.westeurope.azurecontainerapps.io
